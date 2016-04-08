@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ukr_model:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ukr_model_jar</output-path>
+    <root id="archive" name="ukr_model.jar">
+      <element id="module-output" name="ukr_model" />
+    </root>
+  </artifact>
+</component>
